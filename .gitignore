@@ -10,3 +10,4 @@ out/
 *.tar.gz
 *.zip
 data/
+pacakge-lock.json
