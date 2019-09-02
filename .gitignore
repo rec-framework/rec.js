@@ -5,3 +5,8 @@ lib/
 bin/
 out/
 
+*.tgz
+
+*.tar.gz
+*.zip
+data/
