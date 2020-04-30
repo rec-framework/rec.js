@@ -11,3 +11,5 @@ out/
 *.zip
 data/
 pacakge-lock.json
+
+*.csv
